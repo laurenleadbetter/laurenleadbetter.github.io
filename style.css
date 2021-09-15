@@ -74,11 +74,17 @@ a{
 }
 
 #space_cat_container{
-border: 2px, hotpink;
 position: relative;
-
+color:white
 }
 
+#big_fish{
+    color: white;
+}
+
+#little_fish{
+    color:whi;
+}
 .classycats{
     margin-left: auto;
     margin-right: auto;
@@ -105,10 +111,11 @@ position: relative;
     display:flex;
 }
 
+.footer{
+    color: lawngreen;
+}
 
 
-
-@media only screen and (max-width: 600px) {
-    body {
-      color:hotpink;
-    }
+@media only screen and (max-width: 600px) {}
+    body{
+    
